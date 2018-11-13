@@ -4,4 +4,19 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorLink">#219cd6</color>
+    <color name="dark_gray">#767676</color>
+    <color name="light_gray">#F1F1F1</color>
+    <color name="transparent_gray">#BF767676</color>
+    <color name="facebook_button_color">#4267B2</color>
+    <color name="google_button_color">@android:color/white</color>
+    <color name="rating_star_active_color">#FEBF00</color>
+    <color name="rating_star_normal_color">#BFBFBD</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#34A853</color>
+    <color name="blue">#4285F4</color>
+    <color name="red">#EA4335</color>
+    <color name="yellow">#FBBC05</color>
+    <color name="sign_in_button_background">#4285F4</color>
+    <color name="map_circle_stroke_color">#993232FF</color>
+    <color name="map_circle_background_color">#803232FF</color>
 </resources>

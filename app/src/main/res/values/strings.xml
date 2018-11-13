@@ -36,7 +36,8 @@
     <string name="feedback_sent">Đã gửi nhận xét</string>
     <string name="rating_required">Đánh giá số sao</string>
     <string name="shop">Cửa Hàng</string>
-
+    <string name="log_out">Đăng xuất</string>
+    <string name="sign_out">Sign out</string>
     <string name="account">Email</string>
     <string name="password">Mật khẩu</string>
     <string name="confirm_password">Xác nhận mật khẩu</string>
